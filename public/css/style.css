@@ -78,3 +78,6 @@
 .input-text:invalid {
   border-color: red;
 }
+.contact-form .form-field {
+  margin: 10px 0;
+}
