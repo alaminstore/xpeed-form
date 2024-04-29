@@ -7,4 +7,4 @@ To run the Application, <br/>
 3. If nginx / valet use then, valet park according to the path and run <br/>
 Thank You <br/>
 phone: 8801610027821 <br/>
-email: alamin.cse158@gmail.com
+email: smalamin.devgmail.com
