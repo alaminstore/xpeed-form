@@ -6,5 +6,5 @@ To run the Application, <br/>
 2. If you are using xampp,wampp,lampp... then set the file into htdocs and run <br/>
 3. If nginx / valet use then, valet park according to the path and run <br/>
 Thank You <br/>
-phone: 01687850701 <br/>
+phone: 8801610027821 <br/>
 email: alamin.cse158@gmail.com
